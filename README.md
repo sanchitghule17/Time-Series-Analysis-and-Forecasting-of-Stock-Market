@@ -3,7 +3,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
 [![Streamlit Cloud](https://img.shields.io/badge/Streamlit-Cloud-Deploy-green?logo=streamlit&logoColor=white)](https://time-series-analysis-and-forecasting-of-stock-market-nwchl7aot.streamlit.app/)
-
 [![License](https://img.shields.io/github/license/sanchitghule17/Time-Series-Analysis-and-Forecasting-of-Stock-Market)](LICENSE)
 
 An end-to-end academic project that shows how to download equity-price data, explore temporal patterns, train both classical and deep-learning models, and **serve interactive forecasts on Streamlit Cloud**.
