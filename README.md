@@ -45,7 +45,7 @@ An end-to-end academic project that shows how to download equity-price data, exp
 .
 ├── app/                           # Streamlit application
 │   ├── main.py                    # entry-point: streamlit run
-│   └── utils.py                   # plotting & caching helpers
+│   └── dashboard.py                   # plotting & caching helpers
 ├── data/                          # raw & processed data (auto-created)
 ├── models/
 │   ├── arima_model.py
@@ -59,7 +59,7 @@ An end-to-end academic project that shows how to download equity-price data, exp
 ├── requirements.txt
 ├── .gitignore
 ├── LICENSE
-└── README.md                      # ← you are here
+└── README.md                      
 ```
 
 ---
