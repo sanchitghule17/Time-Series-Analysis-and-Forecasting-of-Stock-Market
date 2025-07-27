@@ -1,15 +1,14 @@
-Core Dashboard & Data Handling
+
 streamlit==1.36.0
 pandas==2.2.2
 yfinance==0.2.40
 plotly==5.22.0
 
-Machine Learning & Statistics
+
 scikit-learn==1.5.0
 statsmodels==0.14.2
 
-Time-Series Models
-Note: These specific versions are chosen for compatibility.
+
 numpy==1.26.4
 tensorflow==2.16.1
 prophet==1.1.5
